@@ -1,0 +1,9 @@
+Benchmark: 20 viagens ao destino 1 (Mercado) | seed 1
+Taxa de sucesso: 20/20 (100.0%)
+Tempo médio (sucessos): 15.4 s
+Colisões: 0
+Quase-colisões: 0
+Freios de emergência: 1
+Alertas vermelhos: 1
+Replanejamentos: 0
+Distância média: 1369 px
